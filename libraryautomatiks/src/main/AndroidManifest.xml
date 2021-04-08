@@ -18,7 +18,7 @@
         android:usesCleartextTraffic="true"
         >
 
-        <activity android:name=".Uterpo"
+        <activity android:name=".Kassandres"
             android:configChanges="orientation|screenSize"
             android:launchMode="singleTask"
             >
